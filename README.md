@@ -1,4 +1,4 @@
-### Projeto Formulário de contato
+### Projeto Formulário de Contato
 
 ####  **Tecnologias Utilizadas**
 - HTML
